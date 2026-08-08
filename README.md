@@ -16,3 +16,6 @@ Execute with:
 
 kinematics-calculator.py
 ```
+# Technologies Used:
+
+Programming language Python
