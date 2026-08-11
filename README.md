@@ -14,7 +14,7 @@ cd Kinematics-Calculator
 
 Execute with:
 
-kinematics-calculator.py
+python kinematics-calculator.py
 ```
 # Technologies Used:
 
